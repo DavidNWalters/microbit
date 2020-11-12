@@ -41,7 +41,7 @@ while True:
         i=(i-1) % n_images #don't let value go below 0
         mb.sleep(250)
 
-    # Swich on looping if both buttons are pressed
+    # Switch on looping if both buttons are pressed
     if (mb.button_a.is_pressed() and mb.button_b.is_pressed()):
         looping=True
         mb.sleep(250)

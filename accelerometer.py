@@ -6,7 +6,7 @@ import music
 
 
 # Max and min frequency values
-# Note these calues are for +/-1g
+# Note these values are for +/-1g
 # Higher/lower values are possible by accelerating
 # rather than tilting the microbit
 freq_min = 261.63   #C4

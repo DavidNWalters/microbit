@@ -3,7 +3,7 @@
 # This code works with data from from Open Weather Map (OWM) or from the Met Office
 # datapoint API, for which I have different python codes.
 #
-# Corresponding python3 programa are:
+# Corresponding python3 programs are:
 # ~/python/OpenWeatherMapToMicorbit.py
 # ~/python/MetOfficeDataPointToMicrobit.py
 
@@ -78,7 +78,7 @@ def get_sensor_data():
 while True:
     button_pressed=get_sensor_data()
 #   This is quite a long sleep period, but is long enough for the
-#   annimations to work
+#   animations to work
     mb.sleep(1200)
 
 #   Set up a "try" to read the incoming data and display it
