@@ -4,8 +4,8 @@
 # or from the Met Office datapoint API, for which I have different python codes.
 #
 # Corresponding python3 programs are:
-# ~/python/OpenWeatherMapToMicorbit.py
-# ~/python/MetOfficeDataPointToMicrobit.py
+# https://github.com/DavidNWalters/rpi-python/blob/main/get_weather_for_microbit/MetOfficeDataPointToMicrobit.py
+# https://github.com/DavidNWalters/rpi-python/blob/main/get_weather_for_microbit/OpenWeatherMapToMicrobit.py
 
 import microbit as mb
 
