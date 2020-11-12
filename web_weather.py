@@ -1,7 +1,7 @@
 #
 # Code to display weather data passed via the serial USB interface from Linux.
-# This code works with data from from Open Weather Map (OWM) or from the Met Office
-# datapoint API, for which I have different python codes.
+# This code works with data from from Open Weather Map (OWM)
+# or from the Met Office datapoint API, for which I have different python codes.
 #
 # Corresponding python3 programs are:
 # ~/python/OpenWeatherMapToMicorbit.py
